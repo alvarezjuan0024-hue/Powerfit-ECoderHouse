@@ -1,0 +1,44 @@
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .hero {
+    height: 60vh;
+    text-align: center;
+    padding: 20px;
+  }
+
+ .hero h1 {
+  font-size: 2rem !important;
+}
+
+@media (max-width: 768px) {
+
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+  }
+
+  p {
+    font-size: 0.95rem;
+  }
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+}
+
+  .navbar-nav {
+    text-align: center;
+  }
+
+}

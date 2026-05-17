@@ -1,0 +1,16 @@
+header {
+    background: $color-secundario;
+    padding: 10px 0;
+.navbar-nav {
+.nav-link  {
+      color: white !important;
+
+      &:hover {
+        color: $color-principal !important;
+      }
+    }
+  }
+}
+.navbar-toggler {
+  border: none;
+}
