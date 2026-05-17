@@ -1,12 +1,12 @@
 header {
-  background: #121212;
+  background: #000000;
   padding: 10px 0;
 }
 header .navbar-nav .nav-link {
   color: white !important;
 }
 header .navbar-nav .nav-link:hover {
-  color: #ff4d00 !important;
+  color: #ffae00 !important;
 }
 
 .navbar-toggler {
@@ -27,7 +27,7 @@ main section {
   text-align: center;
 }
 main section h1 {
-  color: #ff4d00;
+  color: #ffae00;
   transition: 0.3s;
 }
 main section h1:hover {
@@ -103,7 +103,7 @@ body {
 }
 
 .btn-primary {
-  background-color: #ff4d00;
+  background-color: #ffae00;
   border: none;
 }
 
@@ -139,7 +139,7 @@ body {
 }
 
 .contact-info i {
-  color: #ff4d00;
+  color: #ffae00;
   font-size: 1.4rem;
 }
 
@@ -150,7 +150,7 @@ body {
 }
 
 .form-control:focus {
-  border-color: #ff4d00;
+  border-color: #ffae00;
   box-shadow: 0 0 10px rgba(255, 77, 0, 0.2);
 }
 
